@@ -16,7 +16,7 @@ for (int j= i+1; j < x.length; ++j) {
 if (x[i] > x[j]) {
 temp = x[i];
 x[i] = x[j];
-x[j]= temp;
+x[j]= temp; //fixed
 }
 } // end of inner for loop
 } // end of outer for loop
