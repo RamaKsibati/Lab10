@@ -50,5 +50,4 @@
       for (int i=0; i<Sortedarr.length; i++) {
       assertEquals(Sortedarr[i], sorted[i], "The values are not the same (Duplicates)");
      
-    }
-    }
+   
